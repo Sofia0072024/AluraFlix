@@ -2,9 +2,13 @@ body {
     color: chocolate;
     background: burlywood;
 
+}
+
 header {
     border-bottom: solid 2px rgb(103, 33, 5);
     padding: 10x;
     font-size: 32px;
     color: rgb(184, 73, 33);
 }
+
+
